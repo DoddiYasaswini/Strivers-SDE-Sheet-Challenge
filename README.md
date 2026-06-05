@@ -12,4 +12,5 @@ I'm solving Striver's SDE Sheet and documenting my progress here.
 | Day 2 | Kadane's Algorithm, Sort an Array of 0's 1's and 2's, Stock Buy and Sell |
 | Day 3 | Rotate Matrix by 90 Degrees, Merge Overlapping Subintervals, Merge Two Sorted Arrays |
 | Day 4 | Find the Duplicate Number , Find the Repeating and Missing Number , Inversion of Array |
-Progress: 12/191 ✅
+| Day 5 | Search in a 2D Matrix , Pow(x, n) , Majority Element |
+Progress: 15/191 ✅
