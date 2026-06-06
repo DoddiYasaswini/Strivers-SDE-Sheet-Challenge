@@ -13,4 +13,5 @@ I'm solving Striver's SDE Sheet and documenting my progress here.
 | Day 3 | Rotate Matrix by 90 Degrees, Merge Overlapping Subintervals, Merge Two Sorted Arrays |
 | Day 4 | Find the Duplicate Number , Find the Repeating and Missing Number , Inversion of Array |
 | Day 5 | Search in a 2D Matrix , Pow(x, n) , Majority Element |
+| Day 6 | Majority Element II | 
 Progress: 15/191 ✅
