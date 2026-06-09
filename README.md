@@ -14,4 +14,7 @@ I'm solving Striver's SDE Sheet and documenting my progress here.
 | Day 4 | Find the Duplicate Number , Find the Repeating and Missing Number , Inversion of Array |
 | Day 5 | Search in a 2D Matrix , Pow(x, n) , Majority Element |
 | Day 6 | Majority Element II | 
-Progress: 15/191 ✅
+| Day 7 | Two Sum	, 4 Sum , Longest Consecutive Sequence in an Array |
+| Day 8 | Largest Subarray with K sum , Count subarrays with given xor K |
+| Day 9 | Reverse a LL ,Find Middle of Linked List , Merge two Sorted Lists |
+Progress: 25/191 ✅
