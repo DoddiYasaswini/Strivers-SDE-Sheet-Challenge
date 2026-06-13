@@ -19,4 +19,5 @@ I'm solving Striver's SDE Sheet and documenting my progress here.
 | Day 9 | Reverse a LL ,Find Middle of Linked List , Merge two Sorted Lists |
 | Day 10| Remove Nth node from the back of the LL , Add two numbers as LinkedList , Delete Node in a Linked List O(1) |
 | Day 11| Find the intersection point of Y LL, Detect a loop in LL , Reverse LL in group of given size K |
-Progress: 31/191 ✅
+| Day 12|Check if LL is palindrome or not, Find the starting point in LL, Flattening of LL |
+Progress: 34/191 ✅
